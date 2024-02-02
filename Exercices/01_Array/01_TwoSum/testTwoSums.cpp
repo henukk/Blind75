@@ -3,7 +3,8 @@
 
 using namespace std;
 
-void testTwoSums() {
+void testTwoSums()
+{
     vector<int> nums = {2, 7, 11, 15};
     int target = 9;
     vector<int> result = twoSum(nums, target);
@@ -11,7 +12,8 @@ void testTwoSums() {
     assert(nums[result[0]] + nums[result[1]] == target);
 }
 
-int main() {
+int main()
+{
     testTwoSums();
     cout << "All tests passed!" << endl;
     return 0;
