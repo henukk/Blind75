@@ -19,7 +19,7 @@ Feel free to browse through the solutions for study and reference. If you have a
 ## Problem List
 <details>
 <summary>- Array</summary>
-<br>
+
   - [x] Two Sum: [Statement](https://leetcode.com/problems/two-sum/) [Solution](./Exercices/01_Array/01_TwoSum)
   - [x] Best Time to Buy and Sell Stock: [Statement](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [Solution](./Exercices/01_Array/02_BestTimetoBuyandSellStock)
   - [x] Contains Duplicate: [Statement](https://leetcode.com/problems/contains-duplicate/) [Solution](./Exercices/01_Array/03_ContainsDuplicate)
