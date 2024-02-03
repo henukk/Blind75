@@ -18,7 +18,7 @@ Feel free to browse through the solutions for study and reference. If you have a
 
 ## Problem List
 <details>
-<summary>- Array</summary>
+<summary>Array</summary>
 
   - [x] Two Sum: [Statement](https://leetcode.com/problems/two-sum/) [Solution](./Exercices/01_Array/01_TwoSum)
   - [x] Best Time to Buy and Sell Stock: [Statement](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [Solution](./Exercices/01_Array/02_BestTimetoBuyandSellStock)
@@ -32,15 +32,19 @@ Feel free to browse through the solutions for study and reference. If you have a
   - [ ] Container With Most Water: [Statement](https://leetcode.com/problems/container-with-most-water/) [Solution](./Exercices/01_Array/10_ContainerWithMostWater)
 </details>
 
-- Binary
+<details>
+<summary>Binary</summary>
+
   - [ ] Sum of Two Integers: [Statement](https://leetcode.com/problems/sum-of-two-integers/) [Solution](./Exercices/02_Binary/01_SumofTwoIntegers)
   - [ ] Number of 1 Bits: [Statement](https://leetcode.com/problems/number-of-1-bits/) [Solution](./Exercices/02_Binary/02_Numberof1Bits)
   - [ ] Counting Bits: [Statement](https://leetcode.com/problems/counting-bits/) [Solution](./Exercices/02_Binary/03_CountingBits)
   - [ ] Missing Number: [Statement](https://leetcode.com/problems/missing-number/) [Solution](./Exercices/02_Binary/04_MissingNumber)
   - [ ] Reverse Bits: [Statement](https://leetcode.com/problems/reverse-bits/) [Solution](./Exercices/02_Binary/05_ReverseBits)
+</details>
 
+<details>
+<summary>Dynamic Programming</summary>
 
-- DynamicProgramming
   - [ ] Climbing Stairs: [Statement](https://leetcode.com/problems/climbing-stairs/) [Solution](./Exercices/03_DynamicProgramming/01_ClimbingStairs)
   - [ ] Coin Change: [Statement](https://leetcode.com/problems/coin-change/) [Solution](./Exercices/03_DynamicProgramming/02_CoinChange)
   - [ ] Longest Increasing Subsequence: [Statement](https://leetcode.com/problems/longest-increasing-subsequence/) [Solution](./Exercices/03_DynamicProgramming/03_LongestIncreasingSubsequence)
@@ -52,9 +56,11 @@ Feel free to browse through the solutions for study and reference. If you have a
   - [ ] Decode Ways: [Statement](https://leetcode.com/problems/decode-ways/) [Solution](./Exercices/03_DynamicProgramming/09_DecodeWays)
   - [ ] Unique Paths: [Statement](https://leetcode.com/problems/unique-paths/) [Solution](./Exercices/03_DynamicProgramming/10_UniquePaths)
   - [ ] Jump Game: [Statement](https://leetcode.com/problems/jump-game/) [Solution](./Exercices/03_DynamicProgramming/11_JumpGame)
+</details>
 
+<details>
+<summary>Graph</summary>
 
-- Graph
   - [ ] Clone Graph: [Statement](https://leetcode.com/problems/clone-graph/) [Solution](./Exercices/04_Graph/01_CloneGraph)
   - [ ] Course Schedule: [Statement](https://leetcode.com/problems/course-schedule/) [Solution](./Exercices/04_Graph/02_CourseSchedule)
   - [ ] Pacific Atlantic Water Flow: [Statement](https://leetcode.com/problems/pacific-atlantic-water-flow/) [Solution](./Exercices/04_Graph/03_PacificAtlanticWaterFlow)
@@ -63,33 +69,41 @@ Feel free to browse through the solutions for study and reference. If you have a
   - [ ] Alien Dictionary: [Statement](https://leetcode.com/problems/alien-dictionary/) [Solution](./Exercices/04_Graph/06_AlienDictionary)
   - [ ] Graph Valid Tree: [Statement](https://leetcode.com/problems/graph-valid-tree/) [Solution](./Exercices/04_Graph/07_GraphValidTree)
   - [ ] Number of Connected Components in an Undirected Graph: [Statement](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) [Solution](./Exercices/04_Graph/08_NumberofConnectedComponentsinanUndirectedGraph)
+</details>
 
+<details>
+<summary>Interval</summary>
 
-- Interval
   - [ ] Insert Interval: [Statement](https://leetcode.com/problems/insert-interval/) [Solution](./Exercices/05_Interval/01_InsertInterval)
   - [ ] Merge Intervals: [Statement](https://leetcode.com/problems/merge-intervals/) [Solution](./Exercices/05_Interval/02_MergeIntervals)
   - [ ] Non-overlapping Intervals: [Statement](https://leetcode.com/problems/non-overlapping-intervals/) [Solution](./Exercices/05_Interval/03_Non-overlappingIntervals)
   - [ ] Meeting Rooms: [Statement](https://leetcode.com/problems/meeting-rooms/) [Solution](./Exercices/05_Interval/04_MeetingRooms)
   - [ ] Meeting Rooms II: [Statement](https://leetcode.com/problems/meeting-rooms-ii/) [Solution](./Exercices/05_Interval/05_MeetingRoomsII)
+</details>
 
+<details>
+<summary>Linked List</summary>
 
-- LinkedList
   - [ ] Reverse a Linked List: [Statement](https://leetcode.com/problems/reverse-linked-list/) [Solution](./Exercices/06_LinkedList/01_ReverseaLinkedList)
   - [ ] Detect Cycle in a Linked List: [Statement](https://leetcode.com/problems/linked-list-cycle/) [Solution](./Exercices/06_LinkedList/02_DetectCycleinaLinkedList)
   - [ ] Merge Two Sorted Lists: [Statement](https://leetcode.com/problems/merge-two-sorted-lists/) [Solution](./Exercices/06_LinkedList/03_MergeTwoSortedLists)
   - [ ] Merge K Sorted Lists: [Statement](https://leetcode.com/problems/merge-k-sorted-lists/) [Solution](./Exercices/06_LinkedList/04_MergeKSortedLists)
   - [ ] Remove Nth Node From End Of List: [Statement](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) [Solution](./Exercices/06_LinkedList/05_RemoveNthNodeFromEndOfList)
   - [ ] Reorder List: [Statement](https://leetcode.com/problems/reorder-list/) [Solution](./Exercices/06_LinkedList/06_ReorderList)
+</details>
 
+<details>
+<summary>Matrix</summary>
 
-- Matrix
   - [ ] Set Matrix Zeroes: [Statement](https://leetcode.com/problems/set-matrix-zeroes/) [Solution](./Exercices/07_Matrix/01_SetMatrixZeroes)
   - [ ] Spiral Matrix: [Statement](https://leetcode.com/problems/spiral-matrix/) [Solution](./Exercices/07_Matrix/02_SpiralMatrix)
   - [ ] Rotate Image: [Statement](https://leetcode.com/problems/rotate-image/) [Solution](./Exercices/07_Matrix/03_RotateImage)
   - [ ] Word Search: [Statement](https://leetcode.com/problems/word-search/) [Solution](./Exercices/07_Matrix/04_WordSearch)
+</details>
 
+<details>
+<summary>String</summary>
 
-- String
   - [ ] Longest Substring Without Repeating Characters: [Statement](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [Solution](./Exercices/08_String/01_LongestSubstringWithoutRepeatingCharacters)
   - [ ] Longest Repeating Character Replacement: [Statement](https://leetcode.com/problems/longest-repeating-character-replacement/) [Solution](./Exercices/08_String/02_LongestRepeatingCharacterReplacement)
   - [ ] Minimum Window Substring: [Statement](https://leetcode.com/problems/minimum-window-substring/) [Solution](./Exercices/08_String/03_MinimumWindowSubstring)
@@ -100,9 +114,11 @@ Feel free to browse through the solutions for study and reference. If you have a
   - [ ] Longest Palindromic Substring: [Statement](https://leetcode.com/problems/longest-palindromic-substring/) [Solution](./Exercices/08_String/08_LongestPalindromicSubstring)
   - [ ] Palindromic Substrings: [Statement](https://leetcode.com/problems/palindromic-substrings/) [Solution](./Exercices/08_String/09_PalindromicSubstrings)
   - [ ] Encode and Decode Strings: [Statement](https://leetcode.com/problems/encode-and-decode-strings/) [Solution](./Exercices/08_String/10_EncodeandDecodeStrings)
+</details>
 
+<details>
+<summary>Tree</summary>
 
-- Tree
   - [ ] Maximum Depth of Binary Tree: [Statement](https://leetcode.com/problems/maximum-depth-of-binary-tree/) [Solution](./Exercices/09_Tree/01_MaximumDepthofBinaryTree)
   - [ ] Same Tree: [Statement](https://leetcode.com/problems/same-tree/) [Solution](./Exercices/09_Tree/02_SameTree)
   - [ ] Invert/Flip Binary Tree: [Statement](https://leetcode.com/problems/invert-binary-tree/) [Solution](./Exercices/09_Tree/03_Invert/FlipBinaryTree)
@@ -117,13 +133,15 @@ Feel free to browse through the solutions for study and reference. If you have a
   - [ ] Implement Trie_Prefix Tree: [Statement](https://leetcode.com/problems/implement-trie-prefix-tree/) [Solution](./Exercices/09_Tree/12_ImplementTrie_PrefixTree)
   - [ ] Add and Search Word: [Statement](https://leetcode.com/problems/add-and-search-word-data-structure-design/) [Solution](./Exercices/09_Tree/13_AddandSearchWord)
   - [ ] Word Search II: [Statement](https://leetcode.com/problems/word-search-ii/) [Solution](./Exercices/09_Tree/14_WordSearchII)
+</details>
 
+<details>
+<summary>Heap</summary>
 
-- Heap
   - [ ] Merge K Sorted Lists: [Statement](https://leetcode.com/problems/merge-k-sorted-lists/) [Solution](./Exercices/10_Heap/01_MergeKSortedLists)
   - [ ] Top K Frequent Elements: [Statement](https://leetcode.com/problems/top-k-frequent-elements/) [Solution](./Exercices/10_Heap/02_TopKFrequentElements)
   - [ ] Find Median from Data Stream: [Statement](https://leetcode.com/problems/find-median-from-data-stream/) [Solution](./Exercices/10_Heap/03_FindMedianfromDataStream)
-
+</details>
 
 
 ## Contributing
