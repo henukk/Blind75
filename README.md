@@ -17,8 +17,9 @@ Each directory in this repository corresponds to a specific problem category (e.
 Feel free to browse through the solutions for study and reference. If you have any suggestions or alternative solutions, I welcome your contributions and feedback.
 
 ## Problem List
-
-- Array
+<details>
+<summary>- Array</summary>
+<br>
   - [x] Two Sum: [Statement](https://leetcode.com/problems/two-sum/) [Solution](./Exercices/01_Array/01_TwoSum)
   - [x] Best Time to Buy and Sell Stock: [Statement](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [Solution](./Exercices/01_Array/02_BestTimetoBuyandSellStock)
   - [x] Contains Duplicate: [Statement](https://leetcode.com/problems/contains-duplicate/) [Solution](./Exercices/01_Array/03_ContainsDuplicate)
@@ -29,7 +30,7 @@ Feel free to browse through the solutions for study and reference. If you have a
   - [ ] Search in Rotated Sorted Array: [Statement](https://leetcode.com/problems/search-in-rotated-sorted-array/) [Solution](./Exercices/01_Array/08_SearchinRotatedSortedArray)
   - [ ] 3 Sum: [Statement](https://leetcode.com/problems/3sum/) [Solution](./Exercices/01_Array/09_3Sum)
   - [ ] Container With Most Water: [Statement](https://leetcode.com/problems/container-with-most-water/) [Solution](./Exercices/01_Array/10_ContainerWithMostWater)
-
+</details>
 
 - Binary
   - [ ] Sum of Two Integers: [Statement](https://leetcode.com/problems/sum-of-two-integers/) [Solution](./Exercices/02_Binary/01_SumofTwoIntegers)
