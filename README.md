@@ -27,9 +27,9 @@ Feel free to browse through the solutions for study and reference. If you have a
   - [x] Maximum Subarray: [Statement](https://leetcode.com/problems/maximum-subarray/) [Solution](./Exercices/01_Array/05_MaximumSubarray)
   - [x] Maximum Product Subarray: [Statement](https://leetcode.com/problems/maximum-product-subarray/) [Solution](./Exercices/01_Array/06_MaximumProductSubarray)
   - [x] Find Minimum in Rotated Sorted Array: [Statement](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) [Solution](./Exercices/01_Array/07_FindMinimuminRotatedSortedArray)
-  - [ ] Search in Rotated Sorted Array: [Statement](https://leetcode.com/problems/search-in-rotated-sorted-array/) [Solution](./Exercices/01_Array/08_SearchinRotatedSortedArray)
-  - [ ] 3 Sum: [Statement](https://leetcode.com/problems/3sum/) [Solution](./Exercices/01_Array/09_3Sum)
-  - [ ] Container With Most Water: [Statement](https://leetcode.com/problems/container-with-most-water/) [Solution](./Exercices/01_Array/10_ContainerWithMostWater)
+  - [x] Search in Rotated Sorted Array: [Statement](https://leetcode.com/problems/search-in-rotated-sorted-array/) [Solution](./Exercices/01_Array/08_SearchinRotatedSortedArray)
+  - [x] 3 Sum: [Statement](https://leetcode.com/problems/3sum/) [Solution](./Exercices/01_Array/09_3Sum)
+  - [x] Container With Most Water: [Statement](https://leetcode.com/problems/container-with-most-water/) [Solution](./Exercices/01_Array/10_ContainerWithMostWater)
 </details>
 
 <details>
