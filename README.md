@@ -35,11 +35,11 @@ Feel free to browse through the solutions for study and reference. If you have a
 <details>
 <summary>Binary</summary>
 
-  - [ ] Sum of Two Integers: [Statement](https://leetcode.com/problems/sum-of-two-integers/) [Solution](./Exercices/02_Binary/01_SumofTwoIntegers)
-  - [ ] Number of 1 Bits: [Statement](https://leetcode.com/problems/number-of-1-bits/) [Solution](./Exercices/02_Binary/02_Numberof1Bits)
-  - [ ] Counting Bits: [Statement](https://leetcode.com/problems/counting-bits/) [Solution](./Exercices/02_Binary/03_CountingBits)
-  - [ ] Missing Number: [Statement](https://leetcode.com/problems/missing-number/) [Solution](./Exercices/02_Binary/04_MissingNumber)
-  - [ ] Reverse Bits: [Statement](https://leetcode.com/problems/reverse-bits/) [Solution](./Exercices/02_Binary/05_ReverseBits)
+  - [x] Sum of Two Integers: [Statement](https://leetcode.com/problems/sum-of-two-integers/) [Solution](./Exercices/02_Binary/01_SumofTwoIntegers)
+  - [x] Number of 1 Bits: [Statement](https://leetcode.com/problems/number-of-1-bits/) [Solution](./Exercices/02_Binary/02_Numberof1Bits)
+  - [x] Counting Bits: [Statement](https://leetcode.com/problems/counting-bits/) [Solution](./Exercices/02_Binary/03_CountingBits)
+  - [x] Missing Number: [Statement](https://leetcode.com/problems/missing-number/) [Solution](./Exercices/02_Binary/04_MissingNumber)
+  - [x] Reverse Bits: [Statement](https://leetcode.com/problems/reverse-bits/) [Solution](./Exercices/02_Binary/05_ReverseBits)
 </details>
 
 <details>
