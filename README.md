@@ -45,10 +45,10 @@ Feel free to browse through the solutions for study and reference. If you have a
 <details>
 <summary>Dynamic Programming</summary>
 
-  - [ ] Climbing Stairs: [Statement](https://leetcode.com/problems/climbing-stairs/) [Solution](./Exercices/03_DynamicProgramming/01_ClimbingStairs)
-  - [ ] Coin Change: [Statement](https://leetcode.com/problems/coin-change/) [Solution](./Exercices/03_DynamicProgramming/02_CoinChange)
-  - [ ] Longest Increasing Subsequence: [Statement](https://leetcode.com/problems/longest-increasing-subsequence/) [Solution](./Exercices/03_DynamicProgramming/03_LongestIncreasingSubsequence)
-  - [ ] Longest Common Subsequence: [Statement](https://leetcode.com/problems/longest-common-subsequence/) [Solution](./Exercices/03_DynamicProgramming/04_LongestCommonSubsequence)
+  - [x] Climbing Stairs: [Statement](https://leetcode.com/problems/climbing-stairs/) [Solution](./Exercices/03_DynamicProgramming/01_ClimbingStairs)
+  - [x] Coin Change: [Statement](https://leetcode.com/problems/coin-change/) [Solution](./Exercices/03_DynamicProgramming/02_CoinChange)
+  - [x] Longest Increasing Subsequence: [Statement](https://leetcode.com/problems/longest-increasing-subsequence/) [Solution](./Exercices/03_DynamicProgramming/03_LongestIncreasingSubsequence)
+  - [x] Longest Common Subsequence: [Statement](https://leetcode.com/problems/longest-common-subsequence/) [Solution](./Exercices/03_DynamicProgramming/04_LongestCommonSubsequence)
   - [ ] Word Break Problem: [Statement](https://leetcode.com/problems/word-break/) [Solution](./Exercices/03_DynamicProgramming/05_WordBreakProblem)
   - [ ] Combination Sum: [Statement](https://leetcode.com/problems/combination-sum-iv/) [Solution](./Exercices/03_DynamicProgramming/06_CombinationSum)
   - [ ] House Robber: [Statement](https://leetcode.com/problems/house-robber/) [Solution](./Exercices/03_DynamicProgramming/07_HouseRobber)
