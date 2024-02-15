@@ -49,13 +49,13 @@ Feel free to browse through the solutions for study and reference. If you have a
   - [x] Coin Change: [Statement](https://leetcode.com/problems/coin-change/) [Solution](./Exercices/03_DynamicProgramming/02_CoinChange)
   - [x] Longest Increasing Subsequence: [Statement](https://leetcode.com/problems/longest-increasing-subsequence/) [Solution](./Exercices/03_DynamicProgramming/03_LongestIncreasingSubsequence)
   - [x] Longest Common Subsequence: [Statement](https://leetcode.com/problems/longest-common-subsequence/) [Solution](./Exercices/03_DynamicProgramming/04_LongestCommonSubsequence)
-  - [ ] Word Break Problem: [Statement](https://leetcode.com/problems/word-break/) [Solution](./Exercices/03_DynamicProgramming/05_WordBreakProblem)
-  - [ ] Combination Sum: [Statement](https://leetcode.com/problems/combination-sum-iv/) [Solution](./Exercices/03_DynamicProgramming/06_CombinationSum)
-  - [ ] House Robber: [Statement](https://leetcode.com/problems/house-robber/) [Solution](./Exercices/03_DynamicProgramming/07_HouseRobber)
-  - [ ] House Robber II: [Statement](https://leetcode.com/problems/house-robber-ii/) [Solution](./Exercices/03_DynamicProgramming/08_HouseRobberII)
-  - [ ] Decode Ways: [Statement](https://leetcode.com/problems/decode-ways/) [Solution](./Exercices/03_DynamicProgramming/09_DecodeWays)
-  - [ ] Unique Paths: [Statement](https://leetcode.com/problems/unique-paths/) [Solution](./Exercices/03_DynamicProgramming/10_UniquePaths)
-  - [ ] Jump Game: [Statement](https://leetcode.com/problems/jump-game/) [Solution](./Exercices/03_DynamicProgramming/11_JumpGame)
+  - [x] Word Break Problem: [Statement](https://leetcode.com/problems/word-break/) [Solution](./Exercices/03_DynamicProgramming/05_WordBreakProblem)
+  - [x] Combination Sum: [Statement](https://leetcode.com/problems/combination-sum-iv/) [Solution](./Exercices/03_DynamicProgramming/06_CombinationSum)
+  - [x] House Robber: [Statement](https://leetcode.com/problems/house-robber/) [Solution](./Exercices/03_DynamicProgramming/07_HouseRobber)
+  - [x] House Robber II: [Statement](https://leetcode.com/problems/house-robber-ii/) [Solution](./Exercices/03_DynamicProgramming/08_HouseRobberII)
+  - [x] Decode Ways: [Statement](https://leetcode.com/problems/decode-ways/) [Solution](./Exercices/03_DynamicProgramming/09_DecodeWays)
+  - [x] Unique Paths: [Statement](https://leetcode.com/problems/unique-paths/) [Solution](./Exercices/03_DynamicProgramming/10_UniquePaths)
+  - [x] Jump Game: [Statement](https://leetcode.com/problems/jump-game/) [Solution](./Exercices/03_DynamicProgramming/11_JumpGame)
 </details>
 
 <details>
