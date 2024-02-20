@@ -61,8 +61,8 @@ Feel free to browse through the solutions for study and reference. If you have a
 <details>
 <summary>Graph</summary>
 
-  - [ ] Clone Graph: [Statement](https://leetcode.com/problems/clone-graph/) [Solution](./Exercices/04_Graph/01_CloneGraph)
-  - [ ] Course Schedule: [Statement](https://leetcode.com/problems/course-schedule/) [Solution](./Exercices/04_Graph/02_CourseSchedule)
+  - [x] Clone Graph: [Statement](https://leetcode.com/problems/clone-graph/) [Solution](./Exercices/04_Graph/01_CloneGraph)
+  - [x] Course Schedule: [Statement](https://leetcode.com/problems/course-schedule/) [Solution](./Exercices/04_Graph/02_CourseSchedule)
   - [ ] Pacific Atlantic Water Flow: [Statement](https://leetcode.com/problems/pacific-atlantic-water-flow/) [Solution](./Exercices/04_Graph/03_PacificAtlanticWaterFlow)
   - [ ] Number of Islands: [Statement](https://leetcode.com/problems/number-of-islands/) [Solution](./Exercices/04_Graph/04_NumberofIslands)
   - [ ] Longest Consecutive Sequence: [Statement](https://leetcode.com/problems/longest-consecutive-sequence/) [Solution](./Exercices/04_Graph/05_LongestConsecutiveSequence)
