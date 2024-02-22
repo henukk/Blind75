@@ -6,73 +6,48 @@ using namespace std;
 
 vector<vector<int>> pacificAtlantic(vector<vector<int>> &heights)
 {
-    vector<vector<int>> result(0);
-
+    vector<vector<int>> result;
     int n = heights.size(), m = heights[0].size();
 
-    // Posible Optimization
-    vector<vector<int>> waterFlow(n, vector<int>(m, 0));
+    vector<vector<bool>> pacificFlow(n, vector<bool>(m, false));
+    vector<vector<bool>> atlanticFlow(n, vector<bool>(m, false));
+
+    for (int i = 0; i < n; ++i)
+    {
+        dfs(heights, pacificFlow, -1, i, 0);
+        dfs(heights, atlanticFlow, -1, i, m - 1);
+    }
+    for (int j = 0; j < m; ++j)
+    {
+        dfs(heights, pacificFlow, -1, 0, j);
+        dfs(heights, atlanticFlow, -1, n - 1, j);
+    }
 
     for (int i = 0; i < n; ++i)
     {
         for (int j = 0; j < m; ++j)
         {
-            if (checkOceans(i, j, heights, waterFlow))
+            if (pacificFlow[i][j] && atlanticFlow[i][j])
             {
-                waterFlow[i][j] = 1;
                 result.push_back({i, j});
             }
-            else
-            {
-                waterFlow[i][j] = -1;
-            }
         }
-    };
+    }
 
     return result;
 }
 
-bool checkOceans(int a, int b, vector<vector<int>> &heights, vector<vector<int>> &waterFlow)
+void dfs(const vector<vector<int>> &heights, vector<vector<bool>> &flow, int prevHeight, int i, int j)
 {
-    int n = heights.size() - 1, m = heights[0].size() - 1;
-    bool pacific = false, atlantic = false;
-    stack<pair<int, int>> toVisit;
-    vector<vector<bool>> visited(n + 1, vector<bool>(m + 1, false));
-
-    toVisit.push({a, b});
-    pair<int, int> act;
-    while (!toVisit.empty())
+    int n = heights.size(), m = heights[0].size();
+    if (i < 0 || j < 0 || i >= n || j >= m || flow[i][j] || heights[i][j] < prevHeight)
     {
-        act = toVisit.top();
-        toVisit.pop();
-        visited[act.first][act.second] = true;
-
-        if (act.first == 0 || act.second == 0)
-            pacific = true;
-        if (act.first == n || act.second == m)
-            atlantic = true;
-
-        if (act.first > 0 && !visited[act.first - 1][act.second] && heights[act.first][act.second] >= heights[act.first - 1][act.second])
-            if (waterFlow[act.first - 1][act.second] == 0)
-                toVisit.push({act.first - 1, act.second});
-            else if (waterFlow[act.first - 1][act.second] == 1)
-                return true;
-        if (act.second > 0 && !visited[act.first][act.second - 1] && heights[act.first][act.second] >= heights[act.first][act.second - 1])
-            if (waterFlow[act.first][act.second - 1] == 0)
-                toVisit.push({act.first, act.second - 1});
-            else if (waterFlow[act.first][act.second - 1] == 1)
-                return true;
-        if (act.first < n && !visited[act.first + 1][act.second] && heights[act.first][act.second] >= heights[act.first + 1][act.second])
-            if (waterFlow[act.first + 1][act.second] == 0)
-                toVisit.push({act.first + 1, act.second});
-            else if (waterFlow[act.first + 1][act.second] == 1)
-                return true;
-        if (act.second < m && !visited[act.first][act.second + 1] && heights[act.first][act.second] >= heights[act.first][act.second + 1])
-            if (waterFlow[act.first][act.second + 1] == 0)
-                toVisit.push({act.first, act.second + 1});
-            else if (waterFlow[act.first][act.second + 1] == 1)
-                return true;
+        return;
     }
+    flow[i][j] = true;
 
-    return pacific && atlantic;
+    dfs(heights, flow, heights[i][j], i + 1, j);
+    dfs(heights, flow, heights[i][j], i - 1, j);
+    dfs(heights, flow, heights[i][j], i, j + 1);
+    dfs(heights, flow, heights[i][j], i, j - 1);
 }
