@@ -74,9 +74,9 @@ Feel free to browse through the solutions for study and reference. If you have a
 <details>
 <summary>Interval</summary>
 
-  - [ ] Insert Interval: [Statement](https://leetcode.com/problems/insert-interval/) [Solution](./Exercices/05_Interval/01_InsertInterval)
-  - [ ] Merge Intervals: [Statement](https://leetcode.com/problems/merge-intervals/) [Solution](./Exercices/05_Interval/02_MergeIntervals)
-  - [ ] Non-overlapping Intervals: [Statement](https://leetcode.com/problems/non-overlapping-intervals/) [Solution](./Exercices/05_Interval/03_Non-overlappingIntervals)
+  - [x] Insert Interval: [Statement](https://leetcode.com/problems/insert-interval/) [Solution](./Exercices/05_Interval/01_InsertInterval)
+  - [x] Merge Intervals: [Statement](https://leetcode.com/problems/merge-intervals/) [Solution](./Exercices/05_Interval/02_MergeIntervals)
+  - [x] Non-overlapping Intervals: [Statement](https://leetcode.com/problems/non-overlapping-intervals/) [Solution](./Exercices/05_Interval/03_Non-overlappingIntervals)
   - [ ] Meeting Rooms: [Statement](https://leetcode.com/problems/meeting-rooms/) [Solution](./Exercices/05_Interval/04_MeetingRooms)
   - [ ] Meeting Rooms II: [Statement](https://leetcode.com/problems/meeting-rooms-ii/) [Solution](./Exercices/05_Interval/05_MeetingRoomsII)
 </details>
