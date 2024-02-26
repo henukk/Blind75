@@ -84,12 +84,12 @@ Feel free to browse through the solutions for study and reference. If you have a
 <details>
 <summary>Linked List</summary>
 
-  - [ ] Reverse a Linked List: [Statement](https://leetcode.com/problems/reverse-linked-list/) [Solution](./Exercices/06_LinkedList/01_ReverseaLinkedList)
-  - [ ] Detect Cycle in a Linked List: [Statement](https://leetcode.com/problems/linked-list-cycle/) [Solution](./Exercices/06_LinkedList/02_DetectCycleinaLinkedList)
-  - [ ] Merge Two Sorted Lists: [Statement](https://leetcode.com/problems/merge-two-sorted-lists/) [Solution](./Exercices/06_LinkedList/03_MergeTwoSortedLists)
-  - [ ] Merge K Sorted Lists: [Statement](https://leetcode.com/problems/merge-k-sorted-lists/) [Solution](./Exercices/06_LinkedList/04_MergeKSortedLists)
-  - [ ] Remove Nth Node From End Of List: [Statement](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) [Solution](./Exercices/06_LinkedList/05_RemoveNthNodeFromEndOfList)
-  - [ ] Reorder List: [Statement](https://leetcode.com/problems/reorder-list/) [Solution](./Exercices/06_LinkedList/06_ReorderList)
+  - [x] Reverse a Linked List: [Statement](https://leetcode.com/problems/reverse-linked-list/) [Solution](./Exercices/06_LinkedList/01_ReverseaLinkedList)
+  - [x] Detect Cycle in a Linked List: [Statement](https://leetcode.com/problems/linked-list-cycle/) [Solution](./Exercices/06_LinkedList/02_DetectCycleinaLinkedList)
+  - [x] Merge Two Sorted Lists: [Statement](https://leetcode.com/problems/merge-two-sorted-lists/) [Solution](./Exercices/06_LinkedList/03_MergeTwoSortedLists)
+  - [x] Merge K Sorted Lists: [Statement](https://leetcode.com/problems/merge-k-sorted-lists/) [Solution](./Exercices/06_LinkedList/04_MergeKSortedLists)
+  - [x] Remove Nth Node From End Of List: [Statement](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) [Solution](./Exercices/06_LinkedList/05_RemoveNthNodeFromEndOfList)
+  - [x] Reorder List: [Statement](https://leetcode.com/problems/reorder-list/) [Solution](./Exercices/06_LinkedList/06_ReorderList)
 </details>
 
 <details>
