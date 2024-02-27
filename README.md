@@ -95,10 +95,10 @@ Feel free to browse through the solutions for study and reference. If you have a
 <details>
 <summary>Matrix</summary>
 
-  - [ ] Set Matrix Zeroes: [Statement](https://leetcode.com/problems/set-matrix-zeroes/) [Solution](./Exercices/07_Matrix/01_SetMatrixZeroes)
-  - [ ] Spiral Matrix: [Statement](https://leetcode.com/problems/spiral-matrix/) [Solution](./Exercices/07_Matrix/02_SpiralMatrix)
-  - [ ] Rotate Image: [Statement](https://leetcode.com/problems/rotate-image/) [Solution](./Exercices/07_Matrix/03_RotateImage)
-  - [ ] Word Search: [Statement](https://leetcode.com/problems/word-search/) [Solution](./Exercices/07_Matrix/04_WordSearch)
+  - [x] Set Matrix Zeroes: [Statement](https://leetcode.com/problems/set-matrix-zeroes/) [Solution](./Exercices/07_Matrix/01_SetMatrixZeroes)
+  - [x] Spiral Matrix: [Statement](https://leetcode.com/problems/spiral-matrix/) [Solution](./Exercices/07_Matrix/02_SpiralMatrix)
+  - [x] Rotate Image: [Statement](https://leetcode.com/problems/rotate-image/) [Solution](./Exercices/07_Matrix/03_RotateImage)
+  - [x] Word Search: [Statement](https://leetcode.com/problems/word-search/) [Solution](./Exercices/07_Matrix/04_WordSearch)
 </details>
 
 <details>
