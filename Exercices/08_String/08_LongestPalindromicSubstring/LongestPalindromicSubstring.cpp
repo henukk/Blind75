@@ -4,6 +4,8 @@
 
 using namespace std;
 
+//manacher's algorithm
+
 string longestPalindrome(string s)
 {
     if (s.empty())
