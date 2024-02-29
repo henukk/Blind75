@@ -14,7 +14,7 @@
 
 ## Complexity
 ### - Time Complexity:
-`$$O(n)$$` <!-- Replace with the appropriate complexity -->
+$$O(n)$$ <!-- Replace with the appropriate complexity -->
 ### - Space Complexity:
 <!-- Description of the space complexity -->
 
